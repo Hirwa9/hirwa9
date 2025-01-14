@@ -15,40 +15,40 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ## 🛠️ My Tech Stack  
 ### Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS">
-  <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" alt="AngularJS">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery">
-  <img src="https://img.shields.io/badge/Ajax-007FFF?style=flat&logo=javascript&logoColor=white" alt="Ajax">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=20232a&logo=react&logoColor=%2361DAFB" alt="ReactJS">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=20232a&logo=react&logoColor=%2361DAFB" alt="React Native">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=E23237&logo=angularjs&logoColor=white" alt="AngularJS">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=563D7C&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=38B2AC&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=E34F26&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=1572B6&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=CC6699&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=0769AD&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=007FFF&logo=javascript&logoColor=white" alt="Ajax">
 </div>
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" alt="Sequelize">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT">
-  <img src="https://img.shields.io/badge/nodemailer-EA4335?style=flat&logo=gmail&logoColor=white" alt="nodemailer">
-  <img src="https://img.shields.io/badge/multer-4B3263?style=flat" alt="multer">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=339933&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=404d59&logo=express&logoColor=%2361DAFB" alt="Express">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=777BB4&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=52B0E7&logo=sequelize&logoColor=white" alt="Sequelize">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=00f&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=039BE5&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=black&logo=JSON%20web%20tokens" alt="JWT">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=EA4335&logo=gmail&logoColor=white" alt="nodemailer">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=4B3263&logo=" alt="multer">
 </div>
 
 ### Tools & Platforms  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=flat&logo=postman&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=F05033&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=181717&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=007ACC&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=007ACC&logo=postman&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=CB3837&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=vercel&logoColor=white" alt="Vercel">
 </div>
 
 ---
