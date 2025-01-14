@@ -15,41 +15,41 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ## 🛠️ My Tech Stack  
 ### Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/v3/ReactJS?logo=react&logoColor=%2361DAFB" alt="ReactJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/React%20Native?logo=react&logoColor=%2361DAFB" alt="React Native" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/AngularJS?logo=angularjs&logoColor=white" alt="AngularJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Bootstrap?logo=bootstrap&logoColor=white" alt="Bootstrap" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/TailwindCSS?logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/HTML?logo=html5&logoColor=white" alt="HTML" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/CSS?logo=css3&logoColor=white" alt="CSS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Sass?logo=sass&logoColor=white" alt="Sass" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/JavaScript?logo=javascript&logoColor=black" alt="JavaScript" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/jQuery?logo=jquery&logoColor=white" alt="jQuery" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Ajax?logo=javascript&logoColor=white" alt="Ajax" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="ReactJS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/reactrouter.svg" alt="React Router" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg" alt="AngularJS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" alt="Sass" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" alt="jQuery" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ajax.svg" alt="Ajax" style="width: 5rem; height: 5rem;">
 </div>
 
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/v3/Node.js?logo=nodedotjs&logoColor=white" alt="NodeJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Express.js?logo=express&logoColor=%2361DAFB" alt="Express" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/PHP?logo=php&logoColor=white" alt="PHP" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Sequelize?logo=sequelize&logoColor=white" alt="Sequelize" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/MySQL?logo=mysql&logoColor=white" alt="MySQL" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Firebase?logo=firebase" alt="Firebase" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/JWT?logo=JSON%20web%20tokens" alt="JWT" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/nodemailer?logo=gmail&logoColor=white" alt="nodemailer" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/multer?logo=&logoColor=white" alt="multer" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="NodeJS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sequelize.svg" alt="Sequelize" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" alt="Firebase" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jsonwebtokens.svg" alt="JWT" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodemailer.svg" alt="nodemailer" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/multer.svg" alt="multer" style="width: 5rem; height: 5rem;">
 </div>
 
 ### Tools & Platforms  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/v3/Git?logo=git&logoColor=white" alt="Git" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/GitHub?logo=github&logoColor=white" alt="GitHub" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/VS%20Code?logo=visual-studio-code&logoColor=white" alt="VS Code" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/REST%20APIs?logo=postman&logoColor=white" alt="REST APIs" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/npm?logo=npm&logoColor=white" alt="npm" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/v3/Vercel?logo=vercel&logoColor=white" alt="Vercel" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" alt="VS Code" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg" alt="REST APIs" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/npm.svg" alt="npm" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vercel.svg" alt="Vercel" style="width: 5rem; height: 5rem;">
 </div>
 
 ---
