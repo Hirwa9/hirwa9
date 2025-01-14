@@ -13,7 +13,7 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ---
 
 ## 🛠️ My Tech Stack  
-### Frontend  
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" style="width: 5rem; height: 5rem;">
