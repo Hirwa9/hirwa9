@@ -25,10 +25,9 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ajax/ajax-original.svg" alt="Ajax" style="width: 5rem; height: 5rem;">
 </div>
 
-### Backend  
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" style="width: 5rem; height: 5rem;">
@@ -37,17 +36,15 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JWT" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemailer/nodemailer-original.svg" alt="nodemailer" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/multer/multer-original.svg" alt="multer" style="width: 5rem; height: 5rem;">
 </div>
 
-### Tools & Platforms  
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VS Code" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="REST APIs" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" style="width: 5rem; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" style="width: 5rem; height: 5rem;">
 </div>
 
