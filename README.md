@@ -15,6 +15,8 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ## 🛠️ My Tech Stack  
 
 ### Frontend  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 ![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)  
@@ -26,17 +28,22 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
 ![Ajax](https://img.shields.io/badge/Ajax-007FFF?style=flat&logo=javascript&logoColor=white)  
+</div>  
 
-### Backend  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  
-![nodemailer](https://img.shields.io/badge/nodemailer-EA4335?style=flat&logo=gmail&logoColor=white)  
-![multer](https://img.shields.io/badge/multer-4B3263?style=flat)  
+### Backend  ### Backend  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![nodemailer](https://img.shields.io/badge/nodemailer-EA4335?style=flat&logo=gmail&logoColor=white)
+![multer](https://img.shields.io/badge/multer-4B3263?style=flat)
+</div>
+
 
 ### Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
