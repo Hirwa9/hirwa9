@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Hirwa  
 
-Welcome to my GitHub profile!  
-I'm a full-stack web developer based in Kigali, Rwanda, passionate about building web and mobile applications that solve real-world problems.  
-
+I'm a full-stack web developer, passionate about building user-centric web applications. I focus on transforming design concepts into scalable, responsive, and visually engaging products.
 
 ## 🛠️ My Tech Stack  
 
