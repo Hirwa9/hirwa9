@@ -27,6 +27,18 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  
 ![Ajax](https://img.shields.io/badge/Ajax-007FFF?style=flat&logo=javascript&logoColor=white)  
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS">
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" alt="AngularJS">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  </a>
+</div>
+
 ### Backend  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
