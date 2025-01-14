@@ -13,41 +13,43 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ---
 
 ## 🛠️ My Tech Stack  
-### Frontend  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/static/v2?label=&color=20232a&logo=react&logoColor=%2361DAFB" alt="ReactJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=20232a&logo=react&logoColor=%2361DAFB" alt="React Native" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=E23237&logo=angularjs&logoColor=white" alt="AngularJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=563D7C&logo=bootstrap&logoColor=white" alt="Bootstrap" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=38B2AC&logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=E34F26&logo=html5&logoColor=white" alt="HTML" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=1572B6&logo=css3&logoColor=white" alt="CSS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=CC6699&logo=sass&logoColor=white" alt="Sass" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=F7DF1E&logo=javascript&logoColor=black" alt="JavaScript" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=0769AD&logo=jquery&logoColor=white" alt="jQuery" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=007FFF&logo=javascript&logoColor=white" alt="Ajax" style="width: 5rem; height: 5rem;">
+### Frontend  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/v3/ReactJS?logo=react&logoColor=%2361DAFB" alt="ReactJS" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/React%20Native?logo=react&logoColor=%2361DAFB" alt="React Native" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/AngularJS?logo=angularjs&logoColor=white" alt="AngularJS" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Bootstrap?logo=bootstrap&logoColor=white" alt="Bootstrap" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/TailwindCSS?logo=tailwind-css&logoColor=white" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/HTML?logo=html5&logoColor=white" alt="HTML" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/CSS?logo=css3&logoColor=white" alt="CSS" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Sass?logo=sass&logoColor=white" alt="Sass" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/JavaScript?logo=javascript&logoColor=black" alt="JavaScript" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/jQuery?logo=jquery&logoColor=white" alt="jQuery" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Ajax?logo=javascript&logoColor=white" alt="Ajax" style="width: 5rem; height: 5rem;">
 </div>
+
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/static/v2?label=&color=339933&logo=nodedotjs&logoColor=white" alt="NodeJS" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=404d59&logo=express&logoColor=%2361DAFB" alt="Express" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=777BB4&logo=php&logoColor=white" alt="PHP" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=52B0E7&logo=sequelize&logoColor=white" alt="Sequelize" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=00f&logo=mysql&logoColor=white" alt="MySQL" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=039BE5&logo=firebase" alt="Firebase" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=black&logo=JSON%20web%20tokens" alt="JWT" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=EA4335&logo=gmail&logoColor=white" alt="nodemailer" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=4B3263&logo=" alt="multer" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Node.js?logo=nodedotjs&logoColor=white" alt="NodeJS" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Express.js?logo=express&logoColor=%2361DAFB" alt="Express" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/PHP?logo=php&logoColor=white" alt="PHP" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Sequelize?logo=sequelize&logoColor=white" alt="Sequelize" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/MySQL?logo=mysql&logoColor=white" alt="MySQL" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Firebase?logo=firebase" alt="Firebase" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/JWT?logo=JSON%20web%20tokens" alt="JWT" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/nodemailer?logo=gmail&logoColor=white" alt="nodemailer" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/multer?logo=&logoColor=white" alt="multer" style="width: 5rem; height: 5rem;">
 </div>
 
 ### Tools & Platforms  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/static/v2?label=&color=F05033&logo=git&logoColor=white" alt="Git" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=181717&logo=github&logoColor=white" alt="GitHub" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=007ACC&logo=visual-studio-code&logoColor=white" alt="VS Code" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=007ACC&logo=postman&logoColor=white" alt="REST APIs" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=CB3837&logo=npm&logoColor=white" alt="npm" style="width: 5rem; height: 5rem;">
-  <img src="https://img.shields.io/static/v2?label=&color=000000&logo=vercel&logoColor=white" alt="Vercel" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Git?logo=git&logoColor=white" alt="Git" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/GitHub?logo=github&logoColor=white" alt="GitHub" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/VS%20Code?logo=visual-studio-code&logoColor=white" alt="VS Code" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/REST%20APIs?logo=postman&logoColor=white" alt="REST APIs" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/npm?logo=npm&logoColor=white" alt="npm" style="width: 5rem; height: 5rem;">
+  <img src="https://img.shields.io/v3/Vercel?logo=vercel&logoColor=white" alt="Vercel" style="width: 5rem; height: 5rem;">
 </div>
 
 ---
