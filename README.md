@@ -15,41 +15,40 @@ I'm a full-stack web developer based in Kigali, Rwanda, passionate about buildin
 ## 🛠️ My Tech Stack  
 ### Frontend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/reactrouter.svg" alt="React Router" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg" alt="AngularJS" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tailwindcss.svg" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sass.svg" alt="Sass" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jquery.svg" alt="jQuery" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ajax.svg" alt="Ajax" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="React Router" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="AngularJS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ajax/ajax-original.svg" alt="Ajax" style="width: 5rem; height: 5rem;">
 </div>
-
 
 ### Backend  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="NodeJS" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sequelize.svg" alt="Sequelize" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" alt="Firebase" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jsonwebtokens.svg" alt="JWT" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodemailer.svg" alt="nodemailer" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/multer.svg" alt="multer" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="JWT" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemailer/nodemailer-original.svg" alt="nodemailer" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/multer/multer-original.svg" alt="multer" style="width: 5rem; height: 5rem;">
 </div>
 
 ### Tools & Platforms  
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" alt="VS Code" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postman.svg" alt="REST APIs" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/npm.svg" alt="npm" style="width: 5rem; height: 5rem;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vercel.svg" alt="Vercel" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VS Code" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="REST APIs" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" style="width: 5rem; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" style="width: 5rem; height: 5rem;">
 </div>
 
 ---
