@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, passionate about build
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" style="width: auto; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" style="width: auto; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize" style="width: auto; height: 5rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="Graphql" style="width: auto; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" alt="Axios" style="width: auto; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" style="width: auto; height: 5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" style="width: auto; height: 5rem;">
@@ -55,4 +56,4 @@ Welcome to my GitHub profile! I'm a full-stack developer, passionate about build
 - 🌐 [Portfolio](https://hirwa-portfolio.vercel.app/)  
 
 
-🌟 Don't forget to **star** my projects if you find them helpful!
+🌟 Remember to star my projects if you find them helpful!
