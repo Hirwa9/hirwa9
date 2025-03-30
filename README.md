@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a full-stack web developer, passionate about b
 ## 📨 Let's Connect  
   
 - 💼 [LinkedIn](https://www.linkedin.com/in/hirwa-cyuzuzo-willy-94159427b/)  
-- 🌐 [Portfolio](https://hirwa9.github.io/)  
+- 🌐 [Portfolio](https://hirwa-portfolio.vercel.app/)  
 
 
 🌟 Don't forget to **star** my projects if you find them helpful!
