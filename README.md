@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hirwa  
 
-Welcome to my GitHub profile! I'm a full-stack developer, passionate about building user-centric web and mobile applications. I focus on transforming design concepts into scalable, responsive, and visually engaging products.
+Welcome to my GitHub profile! I'm a full-stack developer, passionate about building user-centric web and mobile applications. I focus on building and transforming design concepts into scalable, responsive, and visually engaging products.
 
 ## 🛠️ My Tech Stack  
 
